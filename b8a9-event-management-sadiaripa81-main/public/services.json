@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "image": "https://i.ibb.co/CntSRYT/wedding.jpg",
+        "tittle": "Wedding",
+        "description": "Let's Plan Your Perfect Wedding.",
+        "details": "Let's Plan Your Perfect Wedding.Millions of engaged couples turn to Dream as their trusted wedding resource, with the largest directory of local wedding vendors.",
+        "price": "$900"
+    },
+    {
+        "id": 2,
+        "image": "https://i.ibb.co/PNXfbG9/birthday.jpg",
+        "tittle": "Birthday",
+        "description": "Parties With Personalised Fun.",
+        "details": "We set up,organize,and supervise all of the festivities with fun,engaging,and age appropriate games and activities.",
+        "price": "$600"
+    },
+    {
+        "id": 3,
+        "image": "https://i.ibb.co/RpXnNxw/baby-Shower.webp",
+        "tittle": "Baby shower",
+        "description": "Complete Guide To planning A Baby Shower.",
+        "details": "Baby showers are so often the same. A group of women celebrating the mom-to-be with traditional baby shower décor. But you are looking for something a bit more fun, unexpected and Instagram worthy.We've got you covered with the best baby shower ideas. There’s a baby shower idea that's sure to pique your interest and reflects the mom-to-be's taste and style.",
+        "price": "$500"
+    },
+    {
+        "id": 4,
+        "image": "https://i.ibb.co/sF2Q1nV/retirement-2.jpg",
+        "tittle": "Retirement Parties",
+        "description": "Plan Your Retirement Party Perfectly.",
+        "details": "Retirement marks a major milestone in life and should be recognized in a memorable way. If you are hosting a party for the retiree, be sure to begin planning early so you can commemorate this momentous occasion for your colleague, friend, or family member so no detail is overlooked.",
+        "price": "$400"
+    },
+    {
+        "id": 5,
+        "image": "https://i.ibb.co/98B0vxF/engengementtt.jpg",
+        "tittle": "Engagement Parties",
+        "description": "Your Perfect Engagement Party.",
+        "details": "You’re engaged — congratulations! Now it’s time to celebrate with your loved ones! Here’s our engagement party checklist to ensure you’ve got everything covered.This is the party before the main event and your chance to share your amazing news with your friends and family. The beauty of an engagement party is that it can be as laid-back or as formal as you want it to be.",
+        "price": "$800"
+    },
+    {
+        "id": 6,
+        "image": "https://i.ibb.co/34N1Bnf/anniversiry.jpg",
+        "tittle": "Anniversaries",
+        "description": "Bring Back Fond Memories Of A Special Day.",
+        "details": "While it's easy to get lost in the day-to-day of your busy life, an anniversary party offers the perfect opportunity to reconnect with your beloved — and commemorate the years of challenges, growth, and love. It's also a chance to thank friends and family for all of their support throughout the years.",
+        "price": "$300"
+    }
+]
